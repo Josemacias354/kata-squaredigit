@@ -1,0 +1,2 @@
+# kata-squaredigit
+ Another Kata
